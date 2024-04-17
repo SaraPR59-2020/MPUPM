@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:cim="http://iec.ch/TC57/2010/CIM-schema-cim15#"
+	xmlns:ftn="http://www.ftnydro.com/CIM15/2010/extension#">
+<cim:IrregularTimePoint rdf:ID="IrrTP">
+	<cim:IrregularTimePoint.time>0</cim:IrregularTimePoint.time>
+	<cim:IrregularTimePoint.value1>0</cim:IrregularTimePoint.value1>
+	<cim:IrregularTimePoint.value2>0</cim:IrregularTimePoint.value2>
+	<cim:IdentifiedObject.aliasName>IrrTPAli</cim:IdentifiedObject.aliasName>
+	<cim:IdentifiedObject.mRID>IrrTP</cim:IdentifiedObject.mRID>
+	<cim:IdentifiedObject.name>IrregularTimePoint</cim:IdentifiedObject.name>
+</cim:IrregularTimePoint>
+<cim:CurveData rdf:ID="CrvD">
+	<cim:CurveData.Curve rdf:resource="#Crv"/>
+	<cim:CurveData.xvalue>0</cim:CurveData.xvalue>
+	<cim:CurveData.y1value>0</cim:CurveData.y1value>
+	<cim:CurveData.y2value>0</cim:CurveData.y2value>
+	<cim:CurveData.y3value>0</cim:CurveData.y3value>
+	<cim:IdentifiedObject.aliasName>CrvDAli</cim:IdentifiedObject.aliasName>
+	<cim:IdentifiedObject.mRID>CrvD</cim:IdentifiedObject.mRID>
+	<cim:IdentifiedObject.name>CurveData</cim:IdentifiedObject.name>
+</cim:CurveData>
+<cim:Curve rdf:ID="Crv">
+	<cim:Curve.curveStyle>constantYValue</cim:Curve.curveStyle>
+	<cim:Curve.xMultiplier>none</cim:Curve.xMultiplier>
+	<cim:Curve.xUnit>deg</cim:Curve.xUnit>
+	<cim:Curve.y1Multiplier>none</cim:Curve.y1Multiplier>
+	<cim:Curve.y1Unit>deg</cim:Curve.y1Unit>
+	<cim:Curve.y2Multiplier>none</cim:Curve.y2Multiplier>
+	<cim:Curve.y2Unit>deg</cim:Curve.y2Unit>
+	<cim:Curve.y3Multiplier>none</cim:Curve.y3Multiplier>
+	<cim:Curve.y3Unit>deg</cim:Curve.y3Unit>
+	<cim:IdentifiedObject.aliasName>CrvAli</cim:IdentifiedObject.aliasName>
+	<cim:IdentifiedObject.mRID>Crv</cim:IdentifiedObject.mRID>
+	<cim:IdentifiedObject.name>Curve</cim:IdentifiedObject.name>
+</cim:Curve>
+<cim:OutageSchedule rdf:ID="OutS">
+	<cim:BasicIntervalSchedule.startTime></cim:BasicIntervalSchedule.startTime>
+	<cim:BasicIntervalSchedule.value1Multiplier>none</cim:BasicIntervalSchedule.value1Multiplier>
+	<cim:BasicIntervalSchedule.value1Unit>deg</cim:BasicIntervalSchedule.value1Unit>
+	<cim:BasicIntervalSchedule.value2Multiplier>none</cim:BasicIntervalSchedule.value2Multiplier>
+	<cim:BasicIntervalSchedule.value2Unit>deg</cim:BasicIntervalSchedule.value2Unit>
+	<cim:IdentifiedObject.aliasName>OutSAli</cim:IdentifiedObject.aliasName>
+	<cim:IdentifiedObject.mRID>OutS</cim:IdentifiedObject.mRID>
+	<cim:IdentifiedObject.name>OutageSchedule</cim:IdentifiedObject.name>
+</cim:OutageSchedule>
+<cim:SwitchingOperation rdf:ID="SwO">
+	<cim:SwitchingOperation.newState>open</cim:SwitchingOperation.newState>
+	<cim:SwitchingOperation.operationTime>0000-00-00 00:00:00</cim:SwitchingOperation.operationTime>
+	<cim:SwitchingOperation.OutageSchedule rdf:resource="#OutS"/>
+	<cim:IdentifiedObject.aliasName>SwOAli</cim:IdentifiedObject.aliasName>
+	<cim:IdentifiedObject.mRID>SwO</cim:IdentifiedObject.mRID>
+	<cim:IdentifiedObject.name>SwitchingOperation</cim:IdentifiedObject.name>
+</cim:SwitchingOperation>
+<cim:GroundDisconnector rdf:ID="GrndD">
+	<cim:Switch.normalOpen>true</cim:Switch.normalOpen>
+	<cim:Switch.retained>true</cim:Switch.retained>
+	<cim:Switch.switchOnCount>0</cim:Switch.switchOnCount>
+	<cim:Switch.switchOnDate>0000-00-00 00:00:00</cim:Switch.switchOnDate>
+	<cim:Equipment.aggregate>true</cim:Equipment.aggregate>
+	<cim:Equipment.normallyInService>true</cim:Equipment.normallyInService>
+	<cim:IdentifiedObject.aliasName>GrndDAli</cim:IdentifiedObject.aliasName>
+	<cim:IdentifiedObject.mRID>GrndD</cim:IdentifiedObject.mRID>
+	<cim:IdentifiedObject.name>GroundDisconnector</cim:IdentifiedObject.name>
+</cim:GroundDisconnector>
+</rdf:RDF>

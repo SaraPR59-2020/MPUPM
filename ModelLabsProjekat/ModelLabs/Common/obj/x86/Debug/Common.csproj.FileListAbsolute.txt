@@ -1,0 +1,27 @@
+D:\Vezbe\11\ModelLabs\bin\FTN.Common.dll
+D:\Vezbe\11\ModelLabs\bin\FTN.Common.pdb
+D:\Vezbe\11\ModelLabs\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\Vezbe\11\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+C:\Users\stame\Downloads\Projekat2023_24\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+C:\Users\stame\Downloads\Projekat2023_24\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+C:\Users\stame\Downloads\Projekat2023_24\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\stame\Downloads\Projekat2023_24\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\stame\Downloads\Projekat2023_24\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+C:\Users\stame\Downloads\Projekat2023_24\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+C:\Users\stame\OneDrive\Desktop\Modeli podataka\Projekat2023_24\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+C:\Users\stame\OneDrive\Desktop\Modeli podataka\Projekat2023_24\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+C:\Users\stame\OneDrive\Desktop\Modeli podataka\Projekat2023_24\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\stame\OneDrive\Desktop\Modeli podataka\Projekat2023_24\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\stame\OneDrive\Desktop\Modeli podataka\Projekat2023_24\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+C:\Users\stame\OneDrive\Desktop\Modeli podataka\Projekat2023_24\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
